@@ -1,3 +1,3 @@
 # test
 hello world
-COOL STUFF
+COOL STUFF!
